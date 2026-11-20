@@ -133,8 +133,6 @@ A regisztrált alkalmazás hitelesítési kulcsát környezeti változóként ke
 $env:NOVA_PT_PASSWORD = "SAJAT_IPC_KULCS"
 ```
 
-> **Biztonsági megjegyzés:** A tényleges hitelesítési kulcsot ne töltsd fel a GitHub-repositoryba.
-
 ### 5. NOVA indítása
 
 ```powershell
