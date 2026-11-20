@@ -14,7 +14,7 @@ A rendszer egy helyben futó **Qwen3.5:4B** nyelvi modellt használ az **Ollama*
 
 ## Bemutató
 
-*A NOVA SmartHome működését bemutató képernyőkép helye.*
+---<img width="653" height="1030" alt="WindowsTerminal_sBEcy5x6tb" src="https://github.com/user-attachments/assets/852d94b0-1d89-4a06-8e24-c2fd0acabe3f" />
 
 ---
 
@@ -76,8 +76,6 @@ IoT-eszközök
 ```
 
 Az AI feladata a felhasználói utasítások értelmezése és a megfelelő eszközműveletek kiválasztása. A műveleteket a Python alkalmazás ellenőrzi, majd a Cisco Packet Tracer felé továbbítja.
-
----
 
 ## Követelmények
 
