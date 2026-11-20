@@ -14,7 +14,8 @@ A rendszer egy helyben futó **Qwen3.5:4B** nyelvi modellt használ az **Ollama*
 
 ## Bemutató
 
----<img width="653" height="1030" alt="WindowsTerminal_sBEcy5x6tb" src="https://github.com/user-attachments/assets/852d94b0-1d89-4a06-8e24-c2fd0acabe3f" />
+<img width="653" height="1030" alt="WindowsTerminal_sBEcy5x6tb" src="https://github.com/user-attachments/assets/852d94b0-1d89-4a06-8e24-c2fd0acabe3f" />
+<img width="1043" height="795" alt="PacketTracer_Md0yEFGwE6" src="https://github.com/user-attachments/assets/67ed0ad4-713b-4c16-8430-fa74b228cb48" />
 
 ---
 
