@@ -1,0 +1,2 @@
+MODEL = "qwen3.5:4b"
+MAX_AGENT_STEPS = 8
